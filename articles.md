@@ -15,3 +15,8 @@
 - [paper](https://www.aclweb.org/anthology/2020.acl-main.480.pdf) [github](https://github.com/najoungkim/pdtb3)
 - QA 및 문서 기반 대화 시스템에서 담화 관계 이해 (Understanding Discourse Relation)의 중요성 강조
 - 그리고 이에 대한 일관된 전처리 방법 및 평가지표를 PennTreebank의 Discourse task를 기반으로 논문을 작성
+
+## Bayes-Adaptive Monte-Carlo Planning and Learning for Goal-Oriented Dialogues
+- KAIST, School of Computing
+- [paper](http://ailab.kaist.ac.kr/papers/pdfs/JLK2019.pdf)
+- Goal-Oriented Dialogues 중 네고 task를 AlphaZero의 Idea를 채용하여 Dialogue Planning으로 문제를 품
