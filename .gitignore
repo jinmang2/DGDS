@@ -1,0 +1,7 @@
+*.pt
+dialdoc21-sharedtask-phase1/
+cache/
+__pycache__/
+submissions/
+asset/
+seq2seq_output/
