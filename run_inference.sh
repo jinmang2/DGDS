@@ -1,0 +1,12 @@
+python inference.py \
+--data_dir seq2seq_output \
+--output_dir ./submissions \
+--output_file bart-large-xsum \
+--overwrite_output_dir False \
+--cache_dir cache \
+--model_name_or_path bart-large-xsum \
+--model_parameters ./asset/bart-large-xsum_210326.pt \
+--per_device_test_batch_size 1 \
+--max_source_length 1024 \
+--test_max_target_length 50 \
+--num_beams 4
